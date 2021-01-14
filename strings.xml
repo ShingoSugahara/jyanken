@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ジャンケンゲーム</string>
+    <string name="bt_gu">グー</string>
+    <string name="bt_tyoki">チョキ</string>
+    <string name="bt_pa">パー</string>
+    <string name="tv_text">あなたの手を選んでね</string>
+    <string name="kachi">勝ち</string>
+    <string name="make">負け</string>
+    <string name="hikiwake">引き分け</string>
+
+</resources>
